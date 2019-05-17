@@ -1,0 +1,11 @@
+---
+title:  "DBSTUDY" date:   2019-05-17 19:55:16 categories: jekyll update 
+---
+##
+오라클 드라이버 (ojdbc6)
+D:\app\Playdata\product\11.2.0\dbhome_1\jdbc\lib jdbc copy
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext 여기로 붙여넣기;
+C:\Program Files\Java\jre1.8.0_201\lib\ext 
+
+3306
+mysql-connector-java 6.xx대로 변경시 주의 사항 - 잘하고 싶은 코딩하는 오징어;
